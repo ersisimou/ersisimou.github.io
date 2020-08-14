@@ -1,23 +1,23 @@
-title:            Jordi Pont-Tuset's site
+title:            Effrosyni Simou's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //ersisimou.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
+#https://ersisimou.github.io
 disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Effrosyni Simou
+  avatar:         profile.png
+  bio:            I'm a PhD student at EPFL. My research is focused on machine learning from network structured data.
+  email:          effrosyni.simou@epfl.ch
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  # twitter: jponttuset
+  # linkedin: jponttuset
+  google_scholar: nLxgfu0AAAAJ&hl=en
+  # google_plus: 113718226018314522413
+  github: ersisimou
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
