@@ -31,10 +31,10 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
-  - title: Blog
-    url: /blog/
+ # - title: Code
+ #   url: /code/
+ # - title: Blog
+ #   url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
