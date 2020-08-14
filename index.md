@@ -4,7 +4,7 @@ title: About me
 description: "Effrosyni Simou's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: top.png
+  feature: flowers3.png
 ---
 
 I am a PhD student at EPFL.
