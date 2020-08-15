@@ -7,5 +7,5 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also download my [CV](https://ersisimou.github.io/CV/EffrosyniSimou.pdf) in pdf.
+You can also download my [CV](https://ersisimou.github.io/CV/EffrosyniSimou.pdf) in pdf [Last updated: February 2020].
 
