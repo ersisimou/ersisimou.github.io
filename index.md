@@ -4,7 +4,7 @@ title: About me
 description: "Effrosyni Simou's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: top.png
+  feature: boat.png
 ---
 
 My name is Effrosyni, or Ersi for short. I am a PhD student at the signal processing laboratory <a href="https://www.epfl.ch/labs/lts4/" target="_blank">LTS4</a> in <a href="https://www.epfl.ch/en/" target="_blank">EPFL</a>. My research is focused on Machine Learning for structured data. I am particularly interested in exploiting Optimal Transport for the development of representation learning algorithms for graphs. 
